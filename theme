@@ -1,0 +1,274 @@
+{
+  "name": "RosiePink164",
+  "description": "Rosie v2 but wayy more pink :333",
+  "version": "1.9",
+  "authors": [
+    {
+      "name": "Rosie<3",
+      "id": "581573474296791211"
+    }
+  ],
+  "theme_color_map": {
+    "CHAT_BACKGROUND": [
+      "#2b2329",
+      "#ffffff"
+    ],
+    "HEADER_PRIMARY": [
+      "#e792c5",
+      "#070607"
+    ],
+    "HEADER_SECONDARY": [
+      "#fffeff",
+      "#604f5b"
+    ],
+    "TEXT_NORMAL": [
+      "#fbfbfb",
+      "#382e36"
+    ],
+    "TEXT_MUTED": [
+      "#e792c1",
+      "#8d7488"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#fffeff",
+      "#604f5c"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dedcde",
+      "#382e36"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#070607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#bf8ab0",
+      "#d1c7cf"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2b2329",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#332932",
+      "#f5f2f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#241d22",
+      "#efebef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#282027",
+      "#e8e3e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#ffb5f3",
+      "#ad8baa"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#292228",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#251a24",
+      "#f9f8f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#2b232a",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "rgba(42, 34, 41, 1)",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "rgba(139, 116, 139, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "rgba(139, 116, 139, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(139, 116, 139, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(56, 46, 55, 1)",
+      "hsla(323, 7.7%, 2.5%, 0.08)"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#ff63b160",
+      "#ff63b160"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(255, 171, 213, 0.5)",
+      "rgba(255, 171, 213, 0.5)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#ba95b7"
+    ],
+    "TEXT_LINK": [
+      "#ffbaf2",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#272026",
+      "#ffffff"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_200": "#ffffff",
+    "PRIMARY_DARK_300": "#fffeff",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#e3bede",
+    "PRIMARY_DARK_500": "#d48cc6",
+    "PRIMARY_DARK_600": "#272027",
+    "PRIMARY_DARK_630": "#433441",
+    "PRIMARY_DARK_700": "#211a20",
+    "PRIMARY_DARK_800": "#272027",
+    "BRAND_260": "#ff9ecb",
+    "BRAND_300": "#f598c3",
+    "BRAND_330": "#ed93bd",
+    "BRAND_345": "#e890b9",
+    "BRAND_360": "#e68eb7",
+    "BRAND_400": "#db88af",
+    "BRAND_430": "#d483a9",
+    "BRAND_460": "#cc7ea2",
+    "BRAND_500": "#c2789b",
+    "BRAND_530": "#ba7394",
+    "BRAND_560": "#b36f8e",
+    "BRAND_600": "#a86885",
+    "BRAND_630": "#a1647f",
+    "BRAND_660": "#995f79",
+    "BRAND_700": "#8f5971",
+    "BRAND_NEW_260": "#ff9ecb",
+    "BRAND_NEW_300": "#f598c3",
+    "BRAND_NEW_330": "#ed93bd",
+    "BRAND_NEW_345": "#e890b9",
+    "BRAND_NEW_360": "#e68eb7",
+    "BRAND_NEW_400": "#db88af",
+    "BRAND_NEW_430": "#d483a9",
+    "BRAND_NEW_460": "#cc7ea2",
+    "BRAND_NEW_500": "#c2789b",
+    "BRAND_NEW_530": "#ba7394",
+    "BRAND_NEW_560": "#b36f8e",
+    "BRAND_NEW_600": "#a86885",
+    "BRAND_NEW_630": "#a1647f",
+    "BRAND_NEW_660": "#995f79",
+    "BRAND_NEW_700": "#8f5971",
+    "STATUS_RED_260": "#ff9ecb",
+    "STATUS_RED_300": "#f598c3",
+    "STATUS_RED_330": "#ed93bd",
+    "STATUS_RED_345": "#e890b9",
+    "STATUS_RED_360": "#e68eb7",
+    "STATUS_RED_400": "#db88af",
+    "STATUS_RED_430": "#d483a9",
+    "STATUS_RED_460": "#cc7ea2",
+    "STATUS_RED_500": "#c2789b",
+    "STATUS_RED_530": "#ba7394",
+    "STATUS_RED_560": "#b36f8e",
+    "STATUS_RED_600": "#a86885",
+    "STATUS_RED_630": "#a1647f",
+    "STATUS_RED_660": "#995f79",
+    "STATUS_RED_700": "#8f5971",
+    "STATUS_ORANGE_260": "#ff9ecb",
+    "STATUS_ORANGE_300": "#f598c3",
+    "STATUS_ORANGE_330": "#ed93bd",
+    "STATUS_ORANGE_345": "#e890b9",
+    "STATUS_ORANGE_360": "#e68eb7",
+    "STATUS_ORANGE_400": "#db88af",
+    "STATUS_ORANGE_430": "#d483a9",
+    "STATUS_ORANGE_460": "#cc7ea2",
+    "STATUS_ORANGE_500": "#c2789b",
+    "STATUS_ORANGE_530": "#ba7394",
+    "STATUS_ORANGE_560": "#b36f8e",
+    "STATUS_ORANGE_600": "#a86885",
+    "STATUS_ORANGE_630": "#a1647f",
+    "STATUS_ORANGE_660": "#995f79",
+    "STATUS_ORANGE_700": "#8f5971",
+    "STATUS_YELLOW_260": "#ff9ecb",
+    "STATUS_YELLOW_300": "#f598c3",
+    "STATUS_YELLOW_330": "#ed93bd",
+    "STATUS_YELLOW_345": "#e890b9",
+    "STATUS_YELLOW_360": "#e68eb7",
+    "STATUS_YELLOW_400": "#db88af",
+    "STATUS_YELLOW_430": "#d483a9",
+    "STATUS_YELLOW_460": "#cc7ea2",
+    "STATUS_YELLOW_500": "#c2789b",
+    "STATUS_YELLOW_530": "#ba7394",
+    "STATUS_YELLOW_560": "#b36f8e",
+    "STATUS_YELLOW_600": "#a86885",
+    "STATUS_YELLOW_630": "#a1647f",
+    "STATUS_YELLOW_660": "#995f79",
+    "STATUS_YELLOW_700": "#8f5971",
+    "STATUS_GREEN_260": "#ff9ecb",
+    "STATUS_GREEN_300": "#f598c3",
+    "STATUS_GREEN_330": "#ed93bd",
+    "STATUS_GREEN_345": "#e890b9",
+    "STATUS_GREEN_360": "#e68eb7",
+    "STATUS_GREEN_400": "#db88af",
+    "STATUS_GREEN_430": "#d483a9",
+    "STATUS_GREEN_460": "#cc7ea2",
+    "STATUS_GREEN_500": "#c2789b",
+    "STATUS_GREEN_530": "#ba7394",
+    "STATUS_GREEN_560": "#b36f8e",
+    "STATUS_GREEN_600": "#a86885",
+    "STATUS_GREEN_630": "#a1647f",
+    "STATUS_GREEN_660": "#995f79",
+    "STATUS_GREEN_700": "#8f5971",
+    "STATUS_BLUE_260": "#ff9ecb",
+    "STATUS_BLUE_300": "#f598c3",
+    "STATUS_BLUE_330": "#ed93bd",
+    "STATUS_BLUE_345": "#e890b9",
+    "STATUS_BLUE_360": "#e68eb7",
+    "STATUS_BLUE_400": "#db88af",
+    "STATUS_BLUE_430": "#d483a9",
+    "STATUS_BLUE_460": "#cc7ea2",
+    "STATUS_BLUE_500": "#c2789b",
+    "STATUS_BLUE_530": "#ba7394",
+    "STATUS_BLUE_560": "#b36f8e",
+    "STATUS_BLUE_600": "#a86885",
+    "STATUS_BLUE_630": "#a1647f",
+    "STATUS_BLUE_660": "#995f79",
+    "STATUS_BLUE_700": "#8f5971",
+    "BRAND_NEW": "#d481af",
+    "STATUS_RED": "#d674af",
+    "STATUS_YELLOW": "#ff8acc"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#211a20"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://i.postimg.cc/sf9XcXSh/image-2025-02-12-191734492.png",
+    "alpha": 1
+  },
+  "color": "#ff91ff"
+}
